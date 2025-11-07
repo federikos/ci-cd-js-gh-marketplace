@@ -71,3 +71,5 @@ export default defineConfig([
   },
 ])
 ```
+
+[![codecov](https://codecov.io/github/federikos/ci-cd-js-gh-marketplace/graph/badge.svg?token=0RG4YOPHS1)](https://codecov.io/github/federikos/ci-cd-js-gh-marketplace)
